@@ -1,0 +1,136 @@
+[
+  {
+    "id": "hkk34",
+
+    "title": "Digital  Marketing Master Class",
+    "rating": 4.9,
+    "subject": "Designing",
+    "description": "Here will learn how to use dozens of proven digital marketing strategies.Also you will learn social media marketing using all of the most popular social media platforms to grow your business",
+    "lessons": "8",
+    "students": "120",
+    "payment": "399",
+    "img": "https://a6e8z9v6.stackpathcdn.com/kingster/homepages/onlineschool/wp-content/uploads/sites/3/2020/06/iStock-1156240802-400x257.jpg"
+  },
+  {
+    "id": "hdsfj3",
+    "title": "Fashion Designing Course",
+    "rating": 4.7,
+    "subject": "Designing",
+    "description": "Fashion Designing courses encompass the study of a wide spectrum of patterns, trends, aesthetics, styles and colours. Students get to learn about everything from conceptualising the design for clothes, accessories, footwear, etc. to studying the earlier and recent trends in Fashion.",
+    "lessons": "12",
+    "students": "90",
+    "payment": "599",
+    "img": "./images/fashionDesign.jpg"
+  },
+  {
+    "id": "hehw4",
+    "title": "Video Editing Course",
+    "rating": 4.6,
+    "subject": "Designing",
+    "description": "Film Editing as a career is a combination of personal creativity and technical skills. Studying Film Editing courses, you will get to learn about various software applications and concepts that are incremental to becoming a good editor. Below mentioned are the major concepts that are generally taught in Film Editing courses",
+    "lessons": "9",
+    "students": "115",
+    "payment": "599",
+    "img": "./images/videoEditing.jpg"
+  },
+  {
+    "id": "fhasf5",
+    "title": "Teaching Course",
+    "rating": 4.5,
+    "payment": "499",
+    "subject": "Teaching",
+    "description": "This programme is for anyone who is teaching, or who would like to teach, in any subject and any context - be it at school, at home or in the workplace. With dynamic lessons taught by established and respected professionals from across the Commonwealth, this eight course programme will see you develop and strengthen your skills in teaching, professionalism, assessment, and more. As you carry on through the programme, you will find yourself strengthening not only your skills, but your connection with colleagues across the globe. A professional development opportunity not to be missed.  ",
+    "lessons": "8",
+    "students": "85",
+    "img": "./images/teaching.jpg"
+  },
+  {
+    "id": "hgnejr4",
+    "title": "Makeup and Hairstyling Course",
+    "rating": 4.5,
+    "payment": "399",
+    "subject": "Designing",
+    "description": "With professional education and training in any of the prominent Makeup Artist courses, the aspiring makeup artists learn to use prosthetics and cosmetics in a way to oomph up the appearance of the face or body to a new level.",
+    "lessons": "11",
+    "students": "190",
+    "img": "./images/makeupAndHairstylist.jpg"
+  },
+  {
+    "id": "dlfld3",
+    "title": "Yoga Instruction",
+    "rating": 4.5,
+    "payment": "299",
+    "subject": "Health and Culinary",
+    "description": "If you’re a fitness enthusiast, Yoga is a great career choice as it is an ancient art and natural way of staying fit, young and healthy. It also helps in maintaining mental and physical health. There are various certification yoga courses that can be pursued for pursuing prospects in Yoga. After completing the course, you can either start your own yoga classes or start as a teacher.",
+    "lessons": "7",
+    "students": "215",
+    "img": "./images/yogaInstructor.jpg"
+  },
+  {
+    "id": "gfhkjd4",
+    "title": "Cooking Courses",
+    "rating": 4.4,
+    "payment": "299",
+    "subject": "Health and Culinary",
+    "description": "Pursuing a chef course can make you an expert in the field as the curriculum trains candidates to prepare, cook, style food items in attractive and efficient ways. ",
+    "lessons": "10",
+    "students": "72",
+    "img": "./images/cooking.jpg"
+  },
+  {
+    "id": "oergj3",
+    "title": "Graphic Design Masterclass",
+    "rating": 4.4,
+    "payment": "499",
+    "subject": "Designing",
+    "description": " Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skills.Create logos and branding packages for potential clients. ",
+    "lessons": "12",
+    "students": "290",
+    "img": "./images/graphicDeisgn.jpg"
+  },
+
+  {
+    "id": "hfgdh6",
+    "title": "Jewellery Designing Courses",
+    "rating": 4.3,
+    "payment": "399",
+    "subject": "Designing",
+    "description": "Diamonds are truly considered as every woman’s best friend and our love for jewellery can be very well seen on special occasions, festivals, weddings etc. We are always in touch with the latest designs in the market, or the latest gemstones being discovered! But ever thought of designing jewellery on your own? If not, then yes you can! You can learn jewellery designing by enrolling yourself into a jewellery designing course available online ",
+    "lessons": "7",
+    "students": "215",
+    "img": "./images/jewelryDesign.jpg"
+  },
+  {
+    "id": "nrwh34",
+    "title": "Dance Courses",
+    "rating": 4.3,
+    "payment": "599",
+    "subject": "Health and Culinary",
+    "description": "Whether you want to pursue a career in Classical or Western Dance or you are fascinated by aerobic and Zumba dance for fitness, dance courses are amongst the most popular in housewives. You can sign up for a dance class at a nearby institute or even watch online tutorials or videos and learn your favourite dance at home",
+    "lessons": "9",
+    "students": "178",
+    "img": "./images/dance.jpg"
+  },
+  {
+    "id": "gnsdnn3",
+    "title": "Sewing Course",
+    "rating": 4.3,
+    "payment": "399",
+    "subject": "Designing",
+    "description": "With a solid understanding of the fundamentals of sewing, you can design your own garments, create housewares, and craft gifts. Whether you’re sewing by hand or by machine, Udemy has a course for you.",
+    "lessons": "10",
+    "students": "226",
+    "img": "./images/sewing.jpg"
+  },
+  {
+    "id": "jsldjls4",
+    "title": "Art and Craft Course",
+    "rating": 4.2,
+    "payment": "599",
+    "subject": "Teaching",
+    "description": "If art is your hobby and you want to explore and bring your inner artist into this world, then art and craft courses can help you to bring out that inner artist from you. ",
+    "lessons": "12",
+    "students": "76",
+    "img": "./images/artAndCraft.jpg"
+  }
+]

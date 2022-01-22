@@ -1,0 +1,17 @@
+.about-header {
+  width: 100vw;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.1)),
+    url("../../images/aboutUs4.jpg");
+  background-position: center top;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  color: #fff;
+}
+.about-img img {
+  border: 1px hidden #fff;
+  border-radius: 6px;
+}
